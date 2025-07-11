@@ -27,17 +27,18 @@ https://currency-converter-main-zeta.vercel.app/
 🚀 Optimized performance using efficient rendering and JS best practices
 
 📸 Screenshots
-![image](https://github.com/user-attachments/assets/c15cb98f-f3c3-4593-8b95-dad7bf01c5a3)
-![image](https://github.com/user-attachments/assets/02257379-3105-4067-8ce0-3ea97466e954)
+<img width="1912" height="1038" alt="image" src="https://github.com/user-attachments/assets/ef6feb76-9adb-4c4f-82c0-95acc4bf5004" />
+<img width="1919" height="1043" alt="image" src="https://github.com/user-attachments/assets/dea79581-c268-4403-bb01-1fe7acbbecfd" />
+
 🛠️ Installation
 bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/currency-converter-app.git
+git clone https://github.com/daniwinsss/CurrencyConverter-main.git
 
 # Navigate into the project directory
-cd currency-converter-app
+cd CurrencyConverter-main
 
 # Install dependencies
 npm install
