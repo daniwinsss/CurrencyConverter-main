@@ -15,7 +15,7 @@ RESTful APIs – For fetching real-time exchange rates
 Git – Version control system
 
 DEMO
-https://currency-converter-mlmh.vercel.app/
+https://currency-converter-main-zeta.vercel.app/
 
 ✨ Features
 🌐 Real-time currency conversion with accurate exchange rates
